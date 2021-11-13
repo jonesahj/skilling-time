@@ -5,16 +5,26 @@
 
 $family-secondary: "Caveat", serif
 
-$orange: hsl(0, 100%, 80%)
-$yellow: hsl(28, 100%, 80%)
-$turquoise: hsl(173, 100%, 80%)
-$blue: hsl(228, 65%, 45%)
-$purple: hsl(265, 94%, 86%)
-$purple-transparent: hsla(265, 94%, 86%, 0.3)
-$red: hsl(325, 68%, 61%)
+$orange-st: hsl(0, 100%, 80%)
+$yellow-st: hsl(28, 100%, 80%)
+$turquoise-st: hsl(173, 100%, 80%)
+$blue-st: hsl(228, 65%, 45%)
+$purple-st: hsl(265, 94%, 86%)
+$red-st: hsl(325, 68%, 61%)
+
+$purple-transparent-st: hsla(265, 94%, 86%, 0.3)
+
+$orange-invert-st: findColorInvert($orange-st) !default
+$yellow-invert-st: findColorInvert($yellow-st) !default
+$turquoise-invert-st: findColorInvert($turquoise-st) !default
+$blue-invert-st: findColorInvert($blue-st) !default
+$purple-invert-st: findColorInvert($purple-st) !default
+$red-invert-st: findColorInvert($red-st) !default
+
+$purple-transparent-invert-st: findColorInvert($purple-transparent-st) !default
 
 @import "~bulma/sass/utilities/derived-variables.sass"
-$addColors: ("orange":($orange, $orange-invert), "yellow":($yellow, $yellow-invert), "turquoise":($turquoise, $turquoise-invert), "blue":($blue, $blue-invert), "purple":($purple, $purple-invert), "purpletransparent":($purple-transparent, $purple-invert), "red":($red, $red-invert))
+$addColors: ("orange-st":($orange-st, $orange-invert-st), "yellow-st":($yellow-st, $yellow-invert-st), "turquoise-st":($turquoise-st, $turquoise-invert-st), "blue-st":($blue-st, $blue-invert-st), "purple-st":($purple-st, $purple-invert-st), "purpletransparent-st":($purple-transparent-st, $purple-invert-st), "red-st":($red-st, $red-invert-st))
 
 $colors: map-merge($colors, $addColors)
 
