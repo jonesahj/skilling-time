@@ -1,29 +1,40 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
+title: How pro bono is good for your career
 date: 2017-01-04T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+description: And there’s nothing selfish about that.
+
 tags:
   - brewing
   - chemex
 ---
 ![chemex](/img/chemex.jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+The most common response I hear when I tell people I work a four day a week job so I can do one day of Pro Bono work is ‘oh you’re so good’ (after they’ve recovered themselves from realising I don’t have kids, and the four day week is a personal career choice rather than a parental one, but that's a story for a feminist blog). 
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+> I really don’t see myself as particularly good. 
 
-## The little secrets of Chemex brewing
+I enjoy the Pro Bono work I get to do and it has led to so many fantastic career opportunities for me, from freelancing gigs to speaking opportunities. Pro Bono projects nearly always push me out of my comfort zone and enable me to skill up and grow. My first Pro Bono experience was running qualitative research groups for a female empowerment charity, The Girls Network. I’d only ever watched moderators run focus groups, that was the first time I got to try it myself and I discovered not only that I loved it, but also that I was good at it. 
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+More recently I’ve agreed to work with the fitness organisation FightingFit for Cancer to develop their Operational Plan. Again, I’ve been involved in projects like that, but I’ve never been the one leading the workshops and output. So that’s a huge and exciting learning opportunity for me (I know, I’m lame, I get excited by weird things).  My Pro Bono work with the Fair Education Alliance, which now spans five years, has led to some work as a Freelance trainer. Never having worked for myself before, and with no clue how to even cost things that was a total adventure!
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+## The ways Pro Bono has been great for me
+There are two really transformational things that have come out of all the Pro Bono work I’ve done. The first is, rather cheesy but true, the people I’ve met. Those working in the world of social good are, good people. Kind of obvious when you say it but I’ve been blown away by the kindness and openness of the community. People support each other and provide each other with resources and advice. They recommend you to other similar organisations. It is a powerful network to be part of, and can even lead to paid work or a new job if you decide to make the hop into the for good sector. 
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+> People working in the not for profit sector are all phenomenally talented and dedicated individuals. They care about something enough to make it their life's work. That's pretty damn inspiring.
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+The second is that the work I did with charities made me love my job more. I could see how branding and marketing could be used to better communicate the fantastic impact these organisations made, generate more income and grow. As someone who was genuinely considering giving it all up and becoming a social worker / paramedic / something that made me feel like a more decent human, that was quite the turn-around. And that reinvigoration meant I stopped thinking “I hate my job” and “I’m in the wrong career” to things like “I’m so lucky to have a career I love” and “where next”. The where next thoughts have brought me to where I am today, working solely in sustainability and social impact communications, with one day a week to work with any organisation I choose on a Pro Bono basis. 
+
+## So how can Pro Bono work help you and your career? 
+Maybe there is a skill you want to gain, but there’s no upcoming opportunity for you at your work. Or perhaps you want to move into a new area but need experience to put on your CV. Or is there a part of your job that you love but don’t get to do as much of it as you would like? Pro Bono experiences could meet any of those needs. 
+
+## Action points
+Think about your current job and career ambitions:
+- What skills do you need to show to get to the next level of your career?
+- Are there any skills that need refinement?
+- Is there a part of your job you love and want to do more of?
+- Do you want to change roles and need new skills to do so?
+
+Go look for opportunities that are seeking these skills [here](https://reachvolunteering.org.uk/)
