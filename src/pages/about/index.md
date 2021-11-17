@@ -1,19 +1,9 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About me
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Donating my expertise to causes I care about since 2016
+Sometimes people you meet make passing comments that have a huge impact. For me it was when an acquaintance said “the key to life is to find what you’re good at and then find a way to make the world a better place with it”.  As cheesy as it sounds this made me realise that something needed to change in my life.  My career in advertising strategy, creating adverts for some of the world’s biggest brands, was intellectually stimulating but it was morally mis-matched to my own values and desire to help others, leaving me feeling dis-satisfied and restless. So, in 2016, I began offering out my skills as an advertiser pro bono to causes I care about, helping them to develop their branding and marketing plans, and I’ve never stopped.  Not only do I find this hugely rewarding but I’m also continually inspired by the passion of the people I work with, and the causes I, in a very small way, contribute to. I’m also amazed by how much I’ve learnt from it personally; it’s made me better at my job and much more appreciative of the skills I have as a marketer.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
-
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Having chatted to many people about my pro bono work and hearing “I’d love to do that but…I don’t know how / where / when I could” in response I was inspired to set up ‘Skilling Time’, supporting professionals to donate their expertise to causes they care about, and developing professionally at the same time. Nothing makes me happier than hearing that someone is doing pro bono work and realising the transformative power it holds, both for the cause and for themselves. So please drop me a line to let me know about your experiences.
