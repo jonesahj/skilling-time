@@ -4,7 +4,7 @@ title: WHY EVERY PROFESSIONAL SHOULD WORK FOR FREE
 date: 2021-10-16T15:41:20.229Z
 description: It’s called Pro Bono and the benefits go beyond karma credits
 featuredpost: true
-featuredimage: /img/products-full-width.jpg
+featuredimage: [Blog post image](https://user-images.githubusercontent.com/92639530/142189009-fc103c32-aef5-4bca-9ca7-6c187a28109a.png)
 ---
 ## You are an expert. Honestly. 
 
@@ -36,4 +36,4 @@ Hopefully you are now a little clearer on what pro bono work actually is, and ho
 Ask yourself:
 - Why does Pro Bono interest you? 
 - What do you want to learn from doing Pro Bono?
-- Browse opportunities and note the ones that make you feel excited here![Blog post image](https://user-images.githubusercontent.com/92639530/142189009-fc103c32-aef5-4bca-9ca7-6c187a28109a.png)
+- Browse opportunities and note the ones that make you feel excited here!
