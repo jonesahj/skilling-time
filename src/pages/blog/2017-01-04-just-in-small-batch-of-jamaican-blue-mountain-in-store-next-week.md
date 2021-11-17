@@ -1,34 +1,36 @@
 ---
 templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+title: 'Your skills are valuable'
 date: 2017-01-04T15:04:10.000Z
 featuredpost: true
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  Really, really. You're a true pro.
 tags:
   - jamaica
   - green beans
   - flavor
   - tasting
 ---
+## Maybe you’re thinking “what use am I to a charity”
+That’s certainly what I used to think, and what I’ve heard many inspiring, talented professionals say as well. It can be tough to see how your day job can translate into a not-for-profit setting, especially if you work at a very big, or very corporate organisation, or have a particularly niche job description. 
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+> The things you do at work every day are valuable, and there are many skills that can be used laterally. 
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+## Some examples of lateral skill swaps
+Say a charity is looking for a professional to help them develop annual reports and financial strategy. Perhaps the obvious professional would be a finance manager or an accountant. But any professionals with report writing and data analysis skills would also be a fabulous resource for the charity. Perhaps you are a data analyst, sales manager or researcher, you could certainly bring a unique and valuable perspective to the task.
 
-## A little history
+Another common call-out by charities is for someone to help them create compelling marketing content for emails and social media. There are professionals who do this work as a day job, say a copywriter or a digital marketing manager. How about other creative and compelling writers, like a journalist or even a comedian? 
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Lastly, charities often look for experts to mentor and train entrepreneurs or students in business skills. For, this anyone with a love of developing others, plus a bit of business acumin is pro enough to do the bono. You may be a successful team leader or executive. Or perhaps you’re often commended for training junior team members, it’s likely you’d be really brilliant at mentoring a keen bean in a charity to develop themselves. 
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+## Now it's time to find the bono for your pro
+So, hopefully now you can see that you don’t need to go and find a charity looking for your exact job spec. There are many ways to repurpose your skills so they can be used for good. The next step is to work out what sorts of jobs you actually want to do, because it needs to be exciting and rewarding for you too.. An exercise I do in my meet-ups is to get professionals to list out their day-to-day responsibilities. And from that pick out the elements that they love doing, and the elements that they always get positive feedback from colleagues on. These are the skills that are valued in your workplace, and you are naturally brilliant at, so they are also going to be valuable in another setting.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+## Action points for you
+Create a list of five professional skills you have to give by asking yourself:
+- What are your day-to-day responsibilities
+- Which of those do you love doing, or are commended for?
+- What would you like to do more of in your job?
 
-## What you need to know before trying
+Go look for opportunities that are seeking these skills here
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
