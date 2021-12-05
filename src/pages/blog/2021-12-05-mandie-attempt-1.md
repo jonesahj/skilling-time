@@ -1,10 +1,9 @@
 ---
 templateKey: blog-post
-title: WHY EVERY PROFESSIONAL SHOULD WORK FOR FREE
+title: Why every professional should work for free
 date: 2021-10-16T15:41:20.229Z
 description: It’s called Pro Bono and the benefits go beyond karma credits
 featuredpost: true
-featuredimage: [Blog post image](https://user-images.githubusercontent.com/92639530/142189009-fc103c32-aef5-4bca-9ca7-6c187a28109a.png)
 ---
 
 ## You are an expert. Honestly. 
