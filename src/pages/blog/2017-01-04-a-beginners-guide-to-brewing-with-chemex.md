@@ -3,14 +3,12 @@ templateKey: blog-post
 title: How pro bono is good for your career
 date: 2017-01-04T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/chemex.jpg
 description: And there’s nothing selfish about that.
 
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
 
 The most common response I hear when I tell people I work a four day a week job so I can do one day of Pro Bono work is ‘oh you’re so good’ (after they’ve recovered themselves from realising I don’t have kids, and the four day week is a personal career choice rather than a parental one, but that's a story for a feminist blog). 
 

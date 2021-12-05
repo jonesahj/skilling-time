@@ -6,14 +6,7 @@ import Img from "gatsby-image";
 
 class BlogRoll extends React.Component {
   render() {
-    const colors = [
-      "orange-st",
-      "yellow-st",
-      "turquoise-st",
-      "blue-st",
-      "purple-st",
-      "red-st",
-    ];
+    const colors = ["orange-st", "yellow-st", "turquoise-st", "purple-st"];
     const { data } = this.props;
     const { edges: posts } = data.allMarkdownRemark;
 
@@ -30,33 +23,15 @@ class BlogRoll extends React.Component {
               >
                 <article>
                   <header>
-                    {post.frontmatter.featuredimage ? (
-                      <section className="card-image featured-image">
-                        <PreviewCompatibleImage
-                          imageInfo={{
-                            image: post.frontmatter.featuredimage,
-                            alt: `featured image thumbnail for post ${post.frontmatter.title}`,
-                          }}
-                        />
-                        <h3
-                          className={`card-header-title is-overlay has-background-${
-                            colors[index % colors.length]
-                          }`}
-                        >
-                          {post.frontmatter.title}
-                        </h3>
-                      </section>
-                    ) : (
-                      <section
-                        className={`card-header has-text-black-invert has-background-${
-                          colors[index % colors.length]
-                        }`}
-                      >
-                        <h3 className="card-header-title p-5">
-                          {post.frontmatter.title}
-                        </h3>
-                      </section>
-                    )}
+                    <section
+                      className={`card-header has-text-black-invert has-background-${
+                        colors[index % colors.length]
+                      }`}
+                    >
+                      <h3 className="card-header-title p-5">
+                        {post.frontmatter.title}
+                      </h3>
+                    </section>
                   </header>
                   <section className="card-content">
                     {post.frontmatter.description && (
@@ -104,13 +79,6 @@ export default () => (
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost
-                featuredimage {
-                  childImageSharp {
-                    fluid(maxWidth: 120, quality: 100) {
-                      ...GatsbyImageSharpFluid
-                    }
-                  }
-                }
               }
             }
           }
