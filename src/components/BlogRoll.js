@@ -11,23 +11,21 @@ class BlogRoll extends React.Component {
     const { edges: posts } = data.allMarkdownRemark;
 
     return (
-      <div className="columns is-multiline">
+      <div className="columns is-multiline blog-roll">
         {posts &&
           posts.map(({ node: post }, index) => (
             <div className="is-parent column is-4" key={post.id}>
               <Link
-                className={`blog-list-item tile is-child card ${
-                  post.frontmatter.featuredpost ? "is-featured" : ""
-                }`}
+                className={`blog-list-item tile is-child card is-shadowless`}
                 to={post.fields.slug}
               >
                 <article>
-                  <header>
-                    <section
-                      className={`card-header has-text-black-invert has-background-${
-                        colors[index % colors.length]
-                      }`}
-                    >
+                  <header
+                    className={`card-header has-text-black-invert has-background-${
+                      colors[index % colors.length]
+                    }`}
+                  >
+                    <section>
                       <h3 className="card-header-title p-5">
                         {post.frontmatter.title}
                       </h3>

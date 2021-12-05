@@ -17,7 +17,7 @@ export default class BlogIndexPage extends React.Component {
           </div>
         </section>
         <section className="section">
-          <div className="container">
+          <div className="container is-max-widescreen">
             <div className="content">
               <BlogRoll />
             </div>
