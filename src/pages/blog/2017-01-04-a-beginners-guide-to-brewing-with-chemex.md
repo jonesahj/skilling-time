@@ -8,6 +8,7 @@ featuredimage: /img/whatsapp-image-2021-11-05-at-15.50.59.jpeg
 tags: []
 ---
 
+### The best pro bono is as good for you as it is for the charity 
 The most common response I hear when I tell people I work a four day a week job so I can do one day of Pro Bono work is ‘oh you’re so good’ (after they’ve recovered themselves from realising I don’t have kids, and the four day week is a personal career choice rather than a parental one, but that's a story for a feminist blog). 
 
 > I really don’t see myself as particularly good. 
