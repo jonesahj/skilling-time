@@ -10,9 +10,9 @@ export default class BlogIndexPage extends React.Component {
       <Layout>
         <section className="hero has-background has-background-blue-st has-text-white">
           <div className="hero-body">
-            <h1 className="has-text-weight-bold is-size-1">Articles</h1>
+            <h1 className="has-text-weight-bold is-size-1">Read</h1>
             <h2 className="is-family-secondary is-size-2">
-              To help you develop your career by doing good
+              Action orientated articles to help you design pro bono that boosts your career
             </h2>
           </div>
         </section>
