@@ -1,8 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { Link, graphql, StaticQuery } from "gatsby";
-import PreviewCompatibleImage from "./PreviewCompatibleImage";
-import Img from "gatsby-image";
+import {Link} from "gatsby";
 
 class BlogRoll extends React.Component {
   render() {
@@ -56,33 +54,4 @@ BlogRoll.propTypes = {
   }),
 };
 
-export default () => (
-  <StaticQuery
-    query={graphql`
-      query BlogRollQuery {
-        allMarkdownRemark(
-          sort: { order: DESC, fields: [frontmatter___date] }
-          filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
-        ) {
-          edges {
-            node {
-              excerpt(pruneLength: 400)
-              id
-              fields {
-                slug
-              }
-              frontmatter {
-                title
-                description
-                templateKey
-                date(formatString: "MMMM DD, YYYY")
-                featuredpost
-              }
-            }
-          }
-        }
-      }
-    `}
-    render={(data, count) => <BlogRoll data={data} count={count} />}
-  />
-);
+export default BlogRoll

@@ -6,7 +6,7 @@ description: The key is knowing how much time you have to give.
 featuredpost: false
 featuredimage: /img/apple-touch-icon.png
 tags:
-  - read
+- read
 ---
 ### Don't know how you'll fit pro bono into your life?
 
