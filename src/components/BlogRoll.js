@@ -10,7 +10,7 @@ class BlogRoll extends React.Component {
 
     return (
       <div className="columns is-multiline blog-roll">
-        <input type="hidden" className={colors.map((it) => `has-background-${it}`).join(" ")}/>
+        <input type="hidden" className="has-background-orange-st has-background-yellow-st has-background-turquoise-st has-background-purple-st"/>
         {posts &&
           posts.map(({ node: post }, index) => (
             <div className="is-parent column is-4" key={post.id}>
