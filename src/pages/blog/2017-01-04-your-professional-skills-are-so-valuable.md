@@ -6,7 +6,7 @@ description: And there's a charity out there looking for your skills. No doubt a
 featuredpost: true
 featuredimage: /img/products-grid2.jpg
 tags:
-  - Read
+  - read
 ---
 ### Maybe you’re thinking “what use am I to a charity”.
 

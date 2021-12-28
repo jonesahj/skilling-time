@@ -5,7 +5,8 @@ date: 2017-01-04T15:04:10.000Z
 description: And there’s absolutely nothing selfish about that.
 featuredpost: false
 featuredimage: /img/whatsapp-image-2021-11-05-at-15.50.59.jpeg
-tags: []
+tags:
+- read
 ---
 
 ### The best pro bono is as good for you as it is for the charity 

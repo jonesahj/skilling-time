@@ -5,6 +5,8 @@ date: 2021-12-28T14:41:49.988Z
 description: It’s called pro bono, and the benefits go beyond karma credits.
 featuredpost: true
 featuredimage: /img/safari-pinned-tab.svg
+tags:
+- read
 ---
 ### You are an expert. Honestly.
 
