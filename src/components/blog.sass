@@ -4,8 +4,24 @@
 
 .blog-page
   .hero
+    position: relative
+    margin-bottom: 60px
     h2
       font-weight: 700
+      max-width: 700px
+      width: calc(100% - 200px)
+      @include mobile
+        width: auto
+    .balls
+      display: block
+      position: absolute
+      width: 400px
+      height: 378px
+      right: 0
+      bottom: -90px
+      @include mobile
+        display: none
+
   &.theme-read
     .hero
       background-color: $blue-st
@@ -13,6 +29,9 @@
         color: $yellow-st
       h2
         color: $white
+      .balls
+        background-image: url(../img/read.svg)
+
   &.theme-listen
     .hero
       background-color: $yellow-st
@@ -20,6 +39,8 @@
         color: $red-st
       h2
         color: $blue-st
+      .balls
+        background-image: url(../img/listen.svg)
   &.theme-meet
     .hero
       background-color: $red-st
@@ -27,6 +48,8 @@
         color: $blue-st
       h2
         color: $white
+      .balls
+        background-image: url(../img/meet.svg)
 
 .blog-roll
   .card-header

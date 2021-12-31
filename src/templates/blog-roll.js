@@ -18,6 +18,7 @@ export const BlogRollPage = ({ title, description, tag, helmet }) => {
             <h1 className="has-text-weight-bold is-size-1">{title}</h1>
             <h2 className="is-family-secondary is-size-2">{description}</h2>
           </div>
+          <section className="balls" />
         </section>
         <section className="section">
           <div className="container is-max-desktop">
