@@ -17,7 +17,7 @@ const ReadBlogRoll = ({ tag }) => (
         ) {
           edges {
             node {
-              excerpt(pruneLength: 200)
+              excerpt(pruneLength: 160)
               id
               fields {
                 slug

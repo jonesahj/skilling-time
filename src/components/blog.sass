@@ -1,7 +1,9 @@
 @import "~bulma/sass/utilities/mixins.sass"
+@import "~bulma/sass/utilities/initial-variables"
 
 .blog-roll
   .card-header
+    border-radius: 4px !important
     padding-top: 100%
     position: relative
 
@@ -26,6 +28,10 @@
       padding: 20px 60px !important
       word-break: break-word
       hyphens: auto
+
+  .card-content
+    border-radius: 0 !important
+    border-bottom: 4px solid $grey-lightest
 
 .blog-entry
   .content

@@ -25,7 +25,7 @@ class BlogRoll extends React.Component {
                     }`}
                   >
                     <section>
-                      <h3 className="card-header-title p-5">
+                      <h3 className="card-header-title p-5 has-text-weight-bold">
                         {post.frontmatter.title}
                       </h3>
                     </section>
