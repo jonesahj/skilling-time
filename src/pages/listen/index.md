@@ -1,7 +1,7 @@
 ---
-templateKey: 'blog-roll'
+templateKey: blog-roll
 path: /read
 title: Listen
+description: Short interviews with people who have pro-bono know how.
 tag: listen
-description: Listen to stuff.
 ---
