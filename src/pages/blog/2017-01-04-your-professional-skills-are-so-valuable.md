@@ -20,7 +20,7 @@ Say a charity is looking for a professional to help them develop annual reports 
 
 Another common call-out by charities is for someone to help them create compelling marketing content for emails and social media. There are professionals who do this work as a day job, say a copywriter or a digital marketing manager. How about other creative and compelling writers, like a journalist or even a comedian? 
 
-Lastly, charities often look for experts to mentor and train entrepreneurs or students in business skills. For, this anyone with a love of developing others, plus a bit of business acumen is pro enough to do the bono. You may be a successful team leader or executive. Or perhaps you’re often commended for training junior team members, it’s likely you’d be really brilliant at mentoring a keen bean in a charity to develop themselves. 
+Lastly, charities often look for experts to mentor and train entrepreneurs or students in business skills. For this, anyone with a love of developing others, plus a bit of business acumen is pro enough to do the bono. You may be a successful team leader or executive. Or perhaps you’re often commended for training junior team members. If either are true it’s likely you’d be really brilliant at mentoring a keen bean in a charity to develop themselves. 
 
 #### Now it's time to find the bono for your pro.
 
