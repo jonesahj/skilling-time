@@ -10,11 +10,11 @@ tags:
 ---
 #### The best pro bono is as good for you as it is for the charity.
 
-The most common response I hear when I tell people I work a four day a week job so I can do one day of Pro Bono work is ‘oh you’re so good’. 
+The most common response I hear when I tell people I work a four day a week job so I can do one day of pro bono work is ‘oh you’re so good’. 
 
 > I really don’t see myself as particularly good. 
 
-I enjoy the Pro Bono work I get to do and it has led to so many fantastic career opportunities for me, from freelancing gigs to speaking opportunities. Pro bono projects nearly always push me out of my comfort zone and enable me to skill up and grow. My first pro bono experience was running research groups with young women for a female empowerment charity, The Girls Network. I’d only ever watched moderators run focus groups, that was the first time I got to try it myself and I discovered not only that I loved it, but also that I was good at it. 
+I enjoy the pro bono work I get to do and it has led to so many fantastic career opportunities for me, from freelancing gigs to speaking opportunities. Pro bono projects nearly always push me out of my comfort zone and enable me to skill up and grow. My first pro bono experience was running research groups with young women for a female empowerment charity, The Girls Network. I’d only ever watched moderators run focus groups, that was the first time I got to try it myself and I discovered not only that I loved it, but also that I was good at it. 
 
 More recently I’ve agreed to work with the fitness organisation Fighting Fit for Cancer to develop their business plan for the next few years. Again, I’ve been involved in projects like that, but I’ve never been the one leading the workshops and output. So that’s a huge and exciting learning opportunity for me (I know, I’m lame, I get excited by weird things).  My pro bono work with the Fair Education Alliance, which now spans five years, has led to some low-bono work as a freelance workshop facilitator (low-bono is offering your services at a reduced cost). Never having worked for myself before, and with no clue how to even cost things that was a total adventure and a steep learning curve!
 
