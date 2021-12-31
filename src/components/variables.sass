@@ -1,0 +1,32 @@
+@import "~bulma/sass/utilities/initial-variables"
+@import "~bulma/sass/utilities/functions.sass"
+
+
+$family-primary: "Mulish", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif
+$family-secondary: "Caveat", serif
+
+$weight-semibold: 700
+$weight-bold: 900
+
+$orange-st: hsl(0, 100%, 80%)
+$yellow-st: hsl(28, 100%, 80%)
+$turquoise-st: hsl(173, 100%, 80%)
+$blue-st: hsl(228, 65%, 45%)
+$purple-st: hsl(265, 94%, 86%)
+$red-st: hsl(325, 68%, 61%)
+
+$purple-transparent-st: hsla(265, 94%, 86%, 0.3)
+
+$orange-st-invert: findColorInvert($orange-st) !default
+$yellow-st-invert: findColorInvert($yellow-st) !default
+$turquoise-st-invert: findColorInvert($turquoise-st) !default
+$blue-st-invert: findColorInvert($blue-st) !default
+$purple-st-invert: findColorInvert($purple-st) !default
+$red-st-invert: findColorInvert($red-st) !default
+
+$purple-transparent-st-invert: findColorInvert($purple-transparent-st) !default
+
+@import "~bulma/sass/utilities/derived-variables.sass"
+$addColors: ("orange-st":($orange-st, $orange-st-invert), "yellow-st":($yellow-st, $yellow-st-invert), "turquoise-st":($turquoise-st, $turquoise-st-invert), "blue-st":($blue-st, $blue-st-invert), "purple-st":($purple-st, $purple-st-invert), "purpletransparent-st":($purple-transparent-st, $purple-st-invert), "red-st":($red-st, $red-st-invert))
+
+$colors: map-merge($colors, $addColors)

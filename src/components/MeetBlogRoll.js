@@ -2,7 +2,7 @@ import { graphql, StaticQuery } from "gatsby";
 import React from "react";
 import BlogRoll from "./BlogRoll";
 
-const MeetBlogRoll = ({ tag }) => (
+const MeetBlogRoll = () => (
   <StaticQuery
     query={graphql`
       query MeetBlogRollQuery {
@@ -17,7 +17,7 @@ const MeetBlogRoll = ({ tag }) => (
         ) {
           edges {
             node {
-              excerpt(pruneLength: 400)
+              excerpt(pruneLength: 160)
               id
               fields {
                 slug

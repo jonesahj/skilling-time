@@ -2,7 +2,7 @@ import { graphql, StaticQuery } from "gatsby";
 import React from "react";
 import BlogRoll from "./BlogRoll";
 
-const ReadBlogRoll = ({ tag }) => (
+const ReadBlogRoll = () => (
   <StaticQuery
     query={graphql`
       query ReadBlogRollQuery {

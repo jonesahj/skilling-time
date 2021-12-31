@@ -1,5 +1,32 @@
 @import "~bulma/sass/utilities/mixins.sass"
-@import "~bulma/sass/utilities/initial-variables"
+@import "variables"
+
+
+.blog-page
+  .hero
+    h2
+      font-weight: 700
+  &.theme-read
+    .hero
+      background-color: $blue-st
+      h1
+        color: $yellow-st
+      h2
+        color: $white
+  &.theme-listen
+    .hero
+      background-color: $yellow-st
+      h1
+        color: $red-st
+      h2
+        color: $blue-st
+  &.theme-meet
+    .hero
+      background-color: $red-st
+      h1
+        color: $blue-st
+      h2
+        color: $white
 
 .blog-roll
   .card-header
@@ -14,7 +41,7 @@
       height: 100%
 
     .card-header-title
-      font-size: clamp(20px, 2.8vw, 30px) !important
+      font-size: clamp(20px, 2.8vw, 25px) !important
       line-height: 40px !important
       @include from(desktop)
         line-height: 50px !important
@@ -25,7 +52,7 @@
         font-size: 40px !important
       text-align: center
       text-transform: uppercase
-      padding: 20px 60px !important
+      padding: 20px 40px !important
       word-break: break-word
       hyphens: auto
 

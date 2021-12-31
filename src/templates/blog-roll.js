@@ -11,21 +11,23 @@ import ListenBlogRoll from "../components/ListenBlogRoll";
 export const BlogRollPage = ({ title, description, tag, helmet }) => {
   return (
     <Layout>
-      <section className="hero has-background has-background-blue-st has-text-white">
-        {helmet || ""}
-        <div className="hero-body container is-fluid">
-          <h1 className="has-text-weight-bold is-size-1">{title}</h1>
-          <h2 className="is-family-secondary is-size-2">{description}</h2>
-        </div>
-      </section>
-      <section className="section">
-        <div className="container is-max-desktop">
-          <div className="content">
-            {tag === "read" && <ReadBlogRoll />}
-            {tag === "meet" && <MeetBlogRoll />}
-            {tag === "listen" && <ListenBlogRoll />}
+      <section className={`blog-page theme-${tag}`}>
+        <section className={`hero has-background`}>
+          {helmet || ""}
+          <div className="hero-body container is-fluid">
+            <h1 className="has-text-weight-bold is-size-1">{title}</h1>
+            <h2 className="is-family-secondary is-size-2">{description}</h2>
           </div>
-        </div>
+        </section>
+        <section className="section">
+          <div className="container is-max-desktop">
+            <div className="content">
+              {tag === "read" && <ReadBlogRoll />}
+              {tag === "meet" && <MeetBlogRoll />}
+              {tag === "listen" && <ListenBlogRoll />}
+            </div>
+          </div>
+        </section>
       </section>
     </Layout>
   );
