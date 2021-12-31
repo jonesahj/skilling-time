@@ -13,7 +13,7 @@ export const BlogRollPage = ({ title, description, tag, helmet }) => {
     <Layout>
       <section className="hero has-background has-background-blue-st has-text-white">
         {helmet || ""}
-        <div className="hero-body">
+        <div className="hero-body container is-fluid">
           <h1 className="has-text-weight-bold is-size-1">{title}</h1>
           <h2 className="is-family-secondary is-size-2">{description}</h2>
         </div>

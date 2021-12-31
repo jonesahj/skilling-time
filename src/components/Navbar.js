@@ -37,10 +37,10 @@ const Navbar = class extends React.Component {
         role="navigation"
         aria-label="main-navigation"
       >
-        <div className="container">
-          <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo">
-              <h1 className="is-family-secondary is-size-4 is-blue-st">Skilling Time</h1>
+        <div className="container container is-fluid">
+          <div className="is-flex">
+            <Link to="/" className="navbar-item pl-0" title="Logo">
+              <h1 className="is-family-secondary is-size-4 is-blue-st has-text-weight-semibold mr-4">Skilling Time</h1>
             </Link>
             {/* Hamburger menu */}
             <div
@@ -61,19 +61,19 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/read">
+              <Link className="navbar-item has-text-weight-semibold" to="/read">
                 Read
               </Link>
-              <Link className="navbar-item" to="/listen">
+              <Link className="navbar-item has-text-weight-semibold" to="/listen">
                 Listen
               </Link>
-              <Link className="navbar-item" to="/meet">
+              <Link className="navbar-item has-text-weight-semibold" to="/meet">
                 Meet
               </Link>
-              <Link className="navbar-item" to="/content/about">
+              <Link className="navbar-item has-text-weight-semibold" to="/content/about">
                 About
               </Link>
-              <Link className="navbar-item" to="/content/services">
+              <Link className="navbar-item has-text-weight-semibold" to="/content/services">
                 Services
               </Link>
             </div>
