@@ -1,6 +1,6 @@
 ---
 templateKey: simple-page
-title: About Skilling Time
+title: About me
 path: about
 ---
 #### Donating my expertise to causes I care about since 2016
