@@ -3,7 +3,7 @@ templateKey: simple-page
 title: About me
 path: about
 ---
-#### My name's Amanda and I've been donating my expertise to causes I care about since 2016
+#### My name's Amanda and I've been donating my expertise to causes I care about since 2016.
 
 ![The founder, Amanda Jones](/img/aj-small.jpg)
 
