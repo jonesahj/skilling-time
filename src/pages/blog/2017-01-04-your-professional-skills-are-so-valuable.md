@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Your professional skills are so valuable.
+title: Your professional skills are valuable.
 date: 2021-12-28T14:32:02.617Z
 description: And there's a charity out there looking for your skills. No doubt about it.
 featuredpost: true
