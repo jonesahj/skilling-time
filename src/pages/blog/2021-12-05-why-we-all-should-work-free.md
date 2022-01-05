@@ -20,7 +20,7 @@ Doesn't matter. Whatever your speciality I guarantee there is a charity out ther
 
 > Whether you work in finance or the arts, IT or HR, marketing or operations - you are valuable.
 
-Whatever your area of expertise, and whatever your job title, I promise you have skills that are valuable and worthy of donating. And with 168,000 charities in the UK, ranging from local food banks delivering food in the community to activist groups fighting for climate protection, there’s bound to be a cause in need of skills like yours that captures your heart. 
+Whatever your area of expertise, and whatever your job title, I promise you have skills that are valuable and worthy of donating. And with 168,000 charities in the UK, ranging from local food banks delivering food in the community to activist groups fighting for climate protection, there’s bound to be a cause in need of skills like yours that captures your heart (Read more about how to find a cause you care about [here](https://skillingtime.co.uk/blog/2016-12-17-be-a-pro-for-a-cause/)).
 
 #### Ok, so I have valuable skills, but why give them away for free?
 
@@ -36,7 +36,7 @@ Perhaps you’re thinking that if charities just had more money they could hire 
 
 #### So how do I work for free?
 
-Hopefully you are now a little clearer on what pro bono work actually is, and how it can be rewarding and valuable for you too. It can improve your skills, provide you with an opportunity to give back and deliver a beautiful feel-good glow (I know that sounds corny, but it’s true). If you like the sound of donating your skills to a cause you care about take a look around this website, or come to one of our free [meets](https://skillingtime.co.uk/meet), and discover how you can boost your career by doing good.
+Hopefully you are now a little clearer on what pro bono work actually is, and how it can be rewarding and valuable for you too. It can [improve your skills](https://skillingtime.co.uk/blog/2017-01-04-how-pro-bono-is-good/), provide you with an opportunity to give back and deliver a beautiful feel-good glow (I know that sounds corny, but it’s true). If you like the sound of donating your skills to a cause you care about take a look around this website, or come to one of our free [meets](https://skillingtime.co.uk/meet), and discover how you can boost your career by doing good.
 
 #### Action points for you.
 
