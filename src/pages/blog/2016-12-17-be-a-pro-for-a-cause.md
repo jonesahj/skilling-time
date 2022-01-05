@@ -53,7 +53,7 @@ Lastly you can try forgetting about doing good for a moment. What do you love do
 
 #### Why does this emotional link matter anyway?
 
-It’s certainly not essential that you care about the cause you support, but it helps provide that extra motivation, as you’re putting your time into something that matters to you. Whether that’s dance or Dalmatians there will be a charity out there doing work that you care about.
+It’s certainly not essential that you care about the cause you support, but it helps provide that extra motivation, as you’re putting your time into something that matters to you. Whether that’s dance or Dalmatians there will be a charity out there doing work that you care about. At the free [meets ](https://skillingtime.co.uk/meet)I run we spend time exploring what our beliefs, values and hobbies are, to help identify meaningful causes for each attendee.
 
 #### Action points for you.
 
@@ -62,4 +62,4 @@ It’s certainly not essential that you care about the cause you support, but it
 * What values are important to you?
 * What are your hobbies and passions?
 
-Look for causes that match your passions [here](https://reachvolunteering.org.uk/)
+Look for causes that match your passions on[ Reach Volunteering's](https://reachvolunteering.org.uk) pro bono listing site.
