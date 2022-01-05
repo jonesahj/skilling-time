@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Making time in your week to do good.
-date: 2021-12-21T15:27:32.590Z
+date: 2021-12-28T15:27:32.590Z
 description: The key is knowing how much time you have to give.
 featuredpost: false
 featuredimage: /img/apple-touch-icon.png
