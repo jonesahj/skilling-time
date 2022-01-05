@@ -24,7 +24,7 @@ Lastly, charities often look for experts to mentor and train entrepreneurs or st
 
 #### Now it's time to find the bono for your pro.
 
-So, hopefully now you can see that you don’t need to go and find a charity looking for your exact job spec. There are many ways to repurpose your skills so they can be used for good. The next step is to work out what sorts of jobs you actually want to do, because it needs to be exciting and rewarding for you too. An exercise I do in my meet-ups is to get professionals to list out their day-to-day responsibilities. And from that pick out the elements that they love doing, and the elements that they always get positive feedback from colleagues on. These are the skills that are valued in your workplace, and you are naturally brilliant at, so they are also going to be valuable in another setting. Most importantly, they are skills you are going to enjoy offering pro bono to a for good organisation.
+So, hopefully now you can see that you don’t need to go and find a charity looking for your exact job spec. There are many ways to repurpose your skills so they can be used for good. The next step is to work out what sorts of jobs you actually want to do, because it needs to be exciting and rewarding for you too. An exercise I do in my [meets](https://skillingtime.co.uk/meet) is to get professionals to list out their day-to-day responsibilities. And from that pick out the elements that they love doing, and the elements that they always get positive feedback from colleagues on. These are the skills that are valued in your workplace, and you are naturally brilliant at, so they are also going to be valuable in another setting. Most importantly, they are skills you are going to enjoy offering pro bono to a for good organisation.
 
 #### Action points for you.
 
@@ -34,4 +34,4 @@ Create a list of five professional skills you have to give by asking yourself:
 * Which of those do you love doing, or are commended for?
 * What skills would you like to develop but don't have the opportunity to at work?
 
-Go look for pro bono opportunities that match your skills [here](https://reachvolunteering.org.uk/)
+Go look for pro bono opportunities that match your skills at [Reach Volunteering](https://reachvolunteering.org.uk/), a pro bono job listing site.
