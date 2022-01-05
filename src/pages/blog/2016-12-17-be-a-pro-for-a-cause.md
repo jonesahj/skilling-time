@@ -14,11 +14,11 @@ Probably only a handful that include stalwarts like Cancer Research, RSPCA and t
 
 > Most for good organisations have just a few employees and a fairly small annual turn-over. 
 
-These small organisations can really benefit from skilled professionals like you supporting them through pro bono work, as they may not have access to those skills otherwise, and it enables you as the professional to really get stuck in and see the value of your work.
+These small organisations can really benefit from skilled professionals like you supporting them through pro bono work, as they may not have access to those skills otherwise, and it enables you as the professional to really get stuck in and see the value of your work. You can read more about the different types of pro bono opportunities, and the time required to do them well[ here, they range from one off opportunities to longer term commitments.](https://skillingtime.co.uk/blog/2016-12-17-making-time-to-do-good/)
 
 #### Charities and social enterprises are all dedicated to a 'cause'.
 
-A charity’s cause is essentially the area they focus their work on, the way they are making an impact in the world. The categories can get really small and niche but there are some broad areas which can help you direct your search for a charity to work with. And it's also worth pointing out that not all causes 'save the world', and that makes their impact no less valuable. 
+A charity’s cause is essentially the area they focus their work on, the way they are making an impact in the world. The categories can get really small and niche but there are some broad areas which can help you direct your search for a charity that's looking for skills like yours, because the best pro bono opportunities are when there is an alignment of both passion for the cause and skills, which you can read more about[ here](https://skillingtime.co.uk/blog/2017-01-04-your-professional-skills-are-so-valuable/). And it's also worth pointing out that not all causes 'save the world', and that makes their impact no less valuable. 
 
 > Arts and culture causes include museums, universities and theatres.
 
@@ -41,7 +41,7 @@ So we’ve established there are lots of good causes out there that you could wo
 
 #### Is there an issue you care deeply about?
 
-When looking for new pro bono opportunities recently I got a bit bamboozled with the array of choice and found it helpful to think about the issues that I felt particularly charged up about. For example media focus on male violence towards women early in 2021 brought up a lot of strong feelings in me, so I started look for a new trustee position at a domestic violence charity. It was a good way for me to channel strong emotions in a positive way.
+When looking for new pro bono opportunities recently I got a bit bamboozled with the array of choice and found it helpful to think about the issues that I felt particularly charged up about. For example media focus on male violence towards women early in 2021 brought up a lot of strong feelings in me, so I started looking for female empowerment charities that were seeking marketing support. It was a good way for me to channel strong emotions in a positive way.
 
 #### Do your values connect with a certain cause?
 
