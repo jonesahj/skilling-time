@@ -4,7 +4,7 @@ title: Your professional skills are valuable.
 date: 2022-01-04T11:50:41.408Z
 description: And there's a charity out there looking for your skills. No doubt about it.
 featuredpost: true
-featuredimage: /img/products-grid2.jpg
+featuredimage: /img/apple-touch-icon.png
 tags:
   - read
 ---
