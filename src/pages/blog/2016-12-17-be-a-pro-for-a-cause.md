@@ -10,7 +10,7 @@ tags:
 ---
 #### How many charities can you name?
 
-Probably only a handful that include stalwarts like Cancer Research, RSPCA and the NSPCC. These blockbuster charities only make up a fraction of the ‘for good’ organisations out there. There are nearly 170,000 charities and 100,000 social enterprises in the UK (both charities and social enterprises tackle a social issue, but charities generate income through fundraising whereas social enterprises sell a product or service. There are also legal differences in how they are run, which you can read more about [here](https://www.gullands.com/news-events/news/the-difference-between-a-charity-and-a-social-enterprise/)). 
+Probably only a handful that include stalwarts like Cancer Research, RSPCA and the NSPCC. These blockbuster charities only make up a fraction of the ‘for good’ organisations out there. There are nearly 170,000 charities and 100,000 social enterprises in the UK (both charities and social enterprises tackle a social issue, but charities generate income through fundraising whereas social enterprises sell a product or service). 
 
 > Most for good organisations have just a few employees and a fairly small annual turn-over. 
 
