@@ -9,7 +9,7 @@ I run bespoke workshops and coaching programs for corporates who want to encoura
 
 This workshop is particularly useful for workplaces that offer a certain number of volunteering days to each employee or are committed to supporting employees in pursuing pro bono pursuits alongside their day job.
 
-Get in touch [amanda@skillingtime.co.uk](mailto:amanda@skillingtime.co.uk) to talk about the opportunities for you and your employees.
+Get in touch at [amanda@skillingtime.co.uk](mailto:amanda@skillingtime.co.uk) to talk about the opportunities for you and your employees.
 
 ### For charities and social enterprises
 
