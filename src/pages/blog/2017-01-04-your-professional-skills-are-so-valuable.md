@@ -36,4 +36,4 @@ Create a list of five professional skills you have to give by asking yourself:
 * Which of those do you love doing, or are commended for?
 * What skills would you like to develop but don't have the opportunity to at work?
 
-Go look for opportunities that match your skills at [Reach Volunteering](https://reachvolunteering.org.uk/), a pro bono job listing site.
+Sign up to one of Skilling Time's [free workshops](https://skillingtime.co.uk/meet) to design your ideal pro bono experience.
