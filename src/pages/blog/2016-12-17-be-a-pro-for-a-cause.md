@@ -62,4 +62,4 @@ It’s certainly not essential that you care about the cause you support, but it
 * What values are important to you?
 * What are your hobbies and passions?
 
-Look for causes that match your passions on[ Reach Volunteering's](https://reachvolunteering.org.uk) pro bono listing site.
+Sign up to one of Skilling Time's [free workshops](https://skillingtime.co.uk/meet) to design your ideal pro bono experience.
