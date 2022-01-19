@@ -39,4 +39,4 @@ Think about your current job and career ambitions:
 * Is there a part of your job you love and want to do more of?
 * Do you want to change roles and need new skills to do so?
 
-Go look for opportunities that are seeking these skills at [Reach Volunteering](https://reachvolunteering.org.uk/), the pro bono job listing site.
+Sign up to one of Skilling Time's [free workshops](https://skillingtime.co.uk/meet) to design your ideal pro bono experience.
