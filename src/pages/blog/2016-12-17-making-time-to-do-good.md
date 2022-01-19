@@ -43,4 +43,4 @@ There really isn't a right amount, and charities make use of all the pro bono op
 * Think about how much time you want to give (a weekly average is a good way to quantify it)
 * Think about how long you’d like to be connected to a charity for
 
-Look for opportunities that meet your time requirements [](https://reachvolunteering.org.uk/)on [Reach Volunteering's](https://reachvolunteering.org.uk/) job listing site.
+Sign up to one of Skilling Time's [free workshops](https://skillingtime.co.uk/meet) to design your ideal pro bono experience.
