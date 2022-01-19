@@ -46,4 +46,4 @@ Ask yourself:
 * What do you want to learn from doing pro bono?
 * What benefits would you personally get from doing pro bono?
 
-Browse opportunities and note the ones that make you feel excited on Reach, a job portal for pro bono [here!](https://reachvolunteering.org.uk/)
+Sign up to one of Skilling Time's [free workshops](https://skillingtime.co.uk/meet) to design your ideal pro bono experience.
